@@ -6,7 +6,7 @@ export const App = () => {
   return (
     <div>
       <PDF />
-      Find me in src/app.js!
+      PDF Storage
     </div>
   )
 }
