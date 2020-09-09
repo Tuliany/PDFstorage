@@ -1,5 +1,5 @@
-import React, { useEffect, useState} from 'react'
-import { UploadProgress } from 'react-file-upload-progress'
+import React, { useEffect, useState} from 'react'  
+import { UploadProgress } from 'react-fileupload-progress'
 
 
 export const PDF = () => {
